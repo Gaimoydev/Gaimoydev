@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=Gaimoydev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Gaimoydev's GitHub Stats" height="150" />
+    <img width="400" src="https://github-readme-stats.shion.dev/api?username=Gaimoydev&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
 </p>
