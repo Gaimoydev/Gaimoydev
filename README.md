@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaimoydev&show_icons=true&theme=tokyonight&count_private=true" alt="Gaimoydev's GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Gaimoydev" alt="Gaimoydev's GitHub Stats" height="150" />
 </p>
