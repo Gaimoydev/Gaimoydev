@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-stats-extended.vercel.app/api?username=Gaimoydev](https://github-stats-extended.vercel.app/api/?username=Gaimoydev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" alt="Gaimoydev's GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=Gaimoydev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Gaimoydev's GitHub Stats" height="150" />
 </p>
